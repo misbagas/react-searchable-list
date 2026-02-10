@@ -108,6 +108,3 @@ npm run storybook
 
 * **Candidate:** [Misbah Bagaskara Purwanto]
 * **Repository:** [https://github.com/misbagas/react-searchable-list](https://www.google.com/search?q=https://github.com/misbagas/react-searchable-list)
-
----
->>>>>>> 33d201874361ab2b1eab4154b8e975e74f74a1b7
