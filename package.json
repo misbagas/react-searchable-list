@@ -1,0 +1,42 @@
+{
+  "name": "react-searchable-list",
+  "version": "1.0.0",
+  "description": "A lightweight, customizable searchable dropdown component built with React and Tailwind CSS.",
+  "type": "module",
+  "main": "dist/react-searchable-list.umd.js",
+  "module": "dist/react-searchable-list.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/react-searchable-list.es.js",
+      "require": "./dist/react-searchable-list.umd.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19",
+    "react-dom": "^18 || ^19"
+  },
+  "devDependencies": {
+    "@storybook/addon-essentials": "^8.6.14",
+    "@storybook/addon-interactions": "^8.6.14",
+    "@storybook/react-vite": "^8.6.14",
+    "@vitejs/plugin-react": "^5.1.1",
+    "autoprefixer": "^10.4.24",
+    "eslint-plugin-storybook": "^10.2.8",
+    "postcss": "^8.5.6",
+    "prop-types": "^15.8.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "tailwindcss": "^3.4.19",
+    "vite": "^7.3.1"
+  }
+}
