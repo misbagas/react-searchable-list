@@ -5,7 +5,7 @@ A high-performance, customizable, and accessible searchable dropdown component b
 ## 🚀 Live Demo
 
 * **Deployment URL:** [https://searchproject-3gsam8s5w-misbagas-projects.vercel.app/]
-* **Storybook URL:** (https://github.com/misbagas/react-searchable-lis)]
+* **Storybook URL:** https://misbagas.github.io/react-searchable-list/
 
 ---
 
@@ -109,4 +109,4 @@ npm run storybook
 * **Candidate:** [Misbah Bagaskara Purwanto]
 * **Repository:** [[https://github.com/misbagas/react-searchable-list]([https://www.google.com/search?q=https://github.com/misbagas/react-searchable-list]*
 * **Deployment URL:** [https://searchproject-3gsam8s5w-misbagas-projects.vercel.app/]
-* **Storybook URL:** (https://github.com/misbagas/react-searchable-lis)]
+* **Storybook URL:** https://misbagas.github.io/react-searchable-list/
