@@ -107,6 +107,6 @@ npm run storybook
 ## 📮 Submission Details
 
 * **Candidate:** [Misbah Bagaskara Purwanto]
-* **Repository:** [[https://github.com/misbagas/react-searchable-list]([https://www.google.com/search?q=https://github.com/misbagas/react-searchable-list]*
+* **Repository:** https://github.com/misbagas/react-searchable-list
 * **Deployment URL:** https://searchproject-gamma.vercel.app/
 * **Storybook URL:** https://misbagas.github.io/react-searchable-list/
